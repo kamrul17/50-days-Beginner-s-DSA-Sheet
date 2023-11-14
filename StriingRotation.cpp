@@ -1,3 +1,5 @@
+// Check if strings are rotations of each other or not
+
 #include <iostream>
 using namespace std;
 bool isRotation(string s1, string s2)
