@@ -1,3 +1,4 @@
+// Find maximum element of each row in a matrix
 #include <iostream>
 using namespace std;
 void max_in_Row(int arr[][4], int row, int col)
