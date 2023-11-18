@@ -1,6 +1,5 @@
-// Given an matrixay matrix of n elements that is first strictly increasing and then maybe strictly decreasing, find the maximum element in the matrixay.
-// Note : If the matrixay is increasing then just print the last element will be the maximum value.
-// Common elements in all rows of a given matrix
+// Print Matrix in snake Pattern
+
 #include <bits/stdc++.h>
 using namespace std;
 void print_like_snake(int matrix[][4], int row, int col)
