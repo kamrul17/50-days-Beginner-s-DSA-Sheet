@@ -1,4 +1,4 @@
-// ROTATE image BY 90 DEGREE
+// ROTATE image BY 90 DEGREE --ANTICLOCKWISE
 
 #include <iostream>
 using namespace std;
