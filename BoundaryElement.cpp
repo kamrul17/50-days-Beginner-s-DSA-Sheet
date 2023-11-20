@@ -1,7 +1,7 @@
-// Sort a Matrix in all way increasing order
+//  Printing Boundary Elements of a Matrix:
 #include <bits/stdc++.h>
 using namespace std;
-// Printing Boundary Elements of a Matrix:
+
 /*void boundaryElements(int mat[][4], int row, int col)
 {
     for (int i = 0; i < row; i++)
